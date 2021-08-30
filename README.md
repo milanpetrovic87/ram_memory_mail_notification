@@ -2,11 +2,11 @@
 
 this script will notify you when the set threshold is going to be exceeded .
 
-Prerequisites
+**Prerequisites**
 
 Use Linux, no matter which distro.
 
-Install postfix and make it available to send emails. 
+**Install postfix and make it available to send emails. **
 
 For CENTOS/RH distros.
 
